@@ -2,11 +2,11 @@
 Data cleaning, analysis and visualization with Power BI
 
 ```
-Data Cleaning - Power Query Editor
+Data Cleaning: Power Query Editor
 
-Data Analysis - Data View and Relationship, DAX
+Data Analysis: Data View and Relationship, DAX
 
-Data Visualization - Dashboard and Report 
+Data Visualization: Dashboard and Report 
 ```
 
 
