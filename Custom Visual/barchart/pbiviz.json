@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "barchart",
+        "displayName": "Barchart",
+        "guid": "barchartF49F164B65044A8CBFF2E959A8C2AC79",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "Barchart",
+        "supportUrl": "https://www.linkedin.com/in/jacksonyrh",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "Jackson Yin",
+        "email": "Yrh7383111@outlook.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}

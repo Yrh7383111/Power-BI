@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Jackson Yin","email":"Yrh7383111@outlook.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/barchartF49F164B65044A8CBFF2E959A8C2AC79.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"barchart","displayName":"Barchart","guid":"barchartF49F164B65044A8CBFF2E959A8C2AC79","visualClassName":"Visual","version":"1.0.0","description":"Barchart","supportUrl":"https://www.linkedin.com/in/jacksonyrh","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
